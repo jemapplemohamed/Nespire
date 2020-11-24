@@ -1,11 +1,6 @@
 <?
 	/** Class List */
-	$_class_list = array('Log', 'User',
-											 'Axis',
-											 	'AccountHead', 'Account', 'Entry', 'Transaction',
-											 'StockStorage', 'StockItem',
-										 	 'Client', 'CashbackClient', 'Quote', 'Invoice', 'InvoicePayment',
-										 	 'Bill');
+	$_class_list = array('Log', 'User'); // Add more as you go
 	/* /Class List */
 
 
